@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-O projeto Blog-Django-BootStrap está sendo desenvolvido com os conceitos do tutorial [DjangoGirls](https://tutorial.djangogirls.org/pt/), com o objetivo de entendermos os conceitos essenciais da biblioteca Django.<br>
+O projeto Blog-Django-BootStrap está sendo desenvolvido com os conceitos do tutorial [DjangoGirls](https://tutorial.djangogirls.org/pt/), com o objetivo de entender os conceitos essenciais da biblioteca Django e BootStrap.<br>
 
 ---
 
