@@ -1,0 +1,5 @@
+ligar virtual env
+source myvenv/bin/activate
+
+ligar servidor do projeto
+python3 manage.py runserver
