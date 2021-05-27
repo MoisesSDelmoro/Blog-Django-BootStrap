@@ -12,6 +12,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - <img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/> [Python](https://www.python.org/) 
 - <img height="30" src="https://cdn.worldvectorlogo.com/logos/django.svg"/> [DJango](https://www.djangoproject.com/)
+- <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"/> [BootStrap](https://getbootstrap.com/)
 
 ---
 ## Layout WEB
@@ -19,7 +20,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ---
 ## Como utilizar?
 
-- Instalar o [Python](https://www.python.org/downloads/) 3.6 ou superior.
+- Ter o [Python](https://www.python.org/downloads/) 3.6 ou superior instalado.
 ```bash
 
 # Instalar os requisitos
